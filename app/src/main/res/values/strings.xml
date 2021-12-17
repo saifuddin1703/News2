@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_title_sample">Samsung Galaxy S22 Ultra/Note visits Geekbench with Snapdragon 8 Gen 1 SoC - GSMArena.com news </string>
+    <string name="category_item_title">Category</string>
+    <string name="liked">Liked</string>
+    <string name="saved">Saved</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="unsave">UnSave</string>
+    <string name="usave">UnSave</string>
+</resources>
